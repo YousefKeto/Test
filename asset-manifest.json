@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YousefKeto/Test.git/static/css/main.ca731e4c.css",
+    "main.js": "/YousefKeto/Test.git/static/js/main.4017a8d2.js",
+    "static/js/787.c922dae8.chunk.js": "/YousefKeto/Test.git/static/js/787.c922dae8.chunk.js",
+    "index.html": "/YousefKeto/Test.git/index.html",
+    "main.ca731e4c.css.map": "/YousefKeto/Test.git/static/css/main.ca731e4c.css.map",
+    "main.4017a8d2.js.map": "/YousefKeto/Test.git/static/js/main.4017a8d2.js.map",
+    "787.c922dae8.chunk.js.map": "/YousefKeto/Test.git/static/js/787.c922dae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca731e4c.css",
+    "static/js/main.4017a8d2.js"
+  ]
+}
